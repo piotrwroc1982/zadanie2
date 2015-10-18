@@ -21,7 +21,7 @@ public class WczytywaniePliku {
 
 		  public void run() {
 
-			String csvFile = "c://plikz1.csv";
+			String csvFile = "src/plikz1.csv";
 			BufferedReader br = null;
 			String line = "";
 			String cvsSplitBy = ",";
